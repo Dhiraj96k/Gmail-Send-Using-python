@@ -33,12 +33,12 @@ def send_email(sender_email, receiver_email, subject, message, smtp_server, smtp
 
 # Example usage
 sender_email = 'dhirajsalunkedp@gmail.com'
-receiver_email = '@gmail.com'
+receiver_email = 'dhirajsalunke7350@gmail.com'
 subject = 'Test Email'
 message = 'Hello, this is a test email.'
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
-sender_password = 'lozm pzpi optu stnc'
+sender_password = 'cyba jydk cujw swpw'
 
 
 send_email(sender_email, receiver_email, subject, message, smtp_server, smtp_port, sender_password)
