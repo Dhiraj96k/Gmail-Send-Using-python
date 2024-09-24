@@ -32,8 +32,8 @@ def send_email(sender_email, receiver_email, subject, message, smtp_server, smtp
         server.quit()
 
 # Example usage
-sender_email = 'dhirajsalunkedp@gmail.com'
-receiver_email = 'dhirajsalunke7350@gmail.com'
+sender_email = 'dhirajsalunke7350@gmail.com'
+receiver_email = 'dhirajsalunkedp@gmail.com'
 subject = 'Test Email'
 message = 'Hello, this is a test email.'
 smtp_server = 'smtp.gmail.com'
